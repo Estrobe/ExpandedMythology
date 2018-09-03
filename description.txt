@@ -1,0 +1,9 @@
+=================
+Expanded Mythology Mod is a mod that expands upon the
+vanilla enemies and friendly NPCs (such as ducks). 
+Be warned however, as this mod is probably really 
+boring standalone as it is my first mod.
+=================
+v0.1.2
+Added Icon
+=================
